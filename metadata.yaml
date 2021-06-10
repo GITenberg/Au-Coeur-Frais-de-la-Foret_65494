@@ -1,0 +1,24 @@
+_repo: Au-Coeur-Frais-de-la-Foret_65494
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lemonnier, Camille
+    alias: Lemonnier, Antoine Louis Camille
+    birthdate: 1844
+    deathdate: 1913
+    gutenberg_agent_id: '6011'
+    url: http://www.gutenberg.org/2009/agents/6011
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Lemonnier
+description: ''
+gutenberg_issued: '2021-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65494'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Au Coeur Frais de la Forêt
+url: http://www.gutenberg.org/ebooks/65494
